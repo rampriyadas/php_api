@@ -1,0 +1,18 @@
+{
+    "name": "gisfy/tajki",
+    "description": "nsdi portal",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gisfy\\Tajki\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rampriyadas"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
